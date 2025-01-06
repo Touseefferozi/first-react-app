@@ -1,0 +1,52 @@
+.bold{
+
+font-size: 50px;
+margin-top: 2pc;
+color: blue;
+margin-bottom: 2pc;
+
+}
+
+
+
+
+.cardss{
+    display: flex;
+}
+
+
+.contact-form{
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 2pc;
+    margin-top: 2pc;
+    /* margin-bottom: 2pc; */
+    width: 50%;
+
+}
+
+
+.Home{
+
+
+     font-size: 30px;
+    font-weight: 800;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background: #14143a;
+    color: white;
+    height: 251px;
+    margin-top: 2px;
+}  
+
+
+.Home h1{
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 5pc;
+}
+
+
